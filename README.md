@@ -2,7 +2,7 @@
 
 To generate index(Partial):
 
-python wiki_indexer.py <wiki-corpus> <outfile name>
+python wiki_indexer.py wiki-corpus.xml outfile name
 
 
 To merge index on disk:
